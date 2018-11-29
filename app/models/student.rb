@@ -10,4 +10,5 @@ class Student < ActiveRecord::Base
       "inactive"
     end
   end
+
 end
